@@ -1,0 +1,63 @@
+h1 {
+  font-size: 55px;
+}
+nav {
+  background-color: #d5c6e0;
+}
+a {
+  color: #ffffff;
+}
+body {
+  text-align: center;
+  background-color: #f5e6e8;
+  margin: 0px 0px 0px 10px;
+  padding: 50px 10px 0px 10px;
+  color: #fdfcfa;
+}
+header {
+  text-align: center;
+  color: #967aa1;
+  background-color: #f5e6e8;
+}
+h4 {
+  color: #aaa1c8;
+}
+.lighter,
+h5 {
+  text-align: left;
+  color: #253e78;
+  margin: 5px;
+}
+h6 {
+  text-align: left;
+  color: #253e78;
+  margin: 5px;
+  text-align: center;
+}
+h7 {
+  color: rgba(25, 42, 81, 0.3);
+}
+#description {
+  text-align: left;
+}
+#links {
+  text-align: left;
+}
+h3 {
+  text-align: center;
+  color: #aaa1c8;
+}
+#tools {
+  text-align: left;
+}
+#steps {
+  text-align: left;
+}
+:visited {
+  color: #950740;
+}
+footer {
+  font-weight: lighter;
+  text-align: center;
+  color: rgba(117, 8, 83, 0.5);
+}
